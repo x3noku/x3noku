@@ -1,5 +1,5 @@
 ## x3noku
-- 👋 Hi! I'm an 18yo developer from Omsk
+- 👋 Hi! I'm an 19yo developer from Omsk
 - 🌱 Currently studying on Bachelor's programme in RTU MIREA in Moscow
 - 👀 Trying to be more productive
 - 📫 If you want to text me, you can message to [@x3noku](https://t.me/x3noku) telegram

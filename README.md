@@ -36,12 +36,12 @@
 	<a href="https://storybook.js.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/Storybook.svg" alt="Storybook" title="Storybook" />
 	</a>
-	<a href="https://eslint.org/">
+<!-- 	<a href="https://eslint.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/ESLint.svg" alt="ESLint" title="ESLint" />
 	</a>
 	<a href="https://prettier.io/">
 		<img width="50" src="https://prettier.io/icon.png" alt="Prettier" title="Prettier" />
-	</a>
+	</a> -->
 </div>
 
 ## Stats

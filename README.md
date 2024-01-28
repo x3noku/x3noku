@@ -1,7 +1,7 @@
 ## What's up, folks, I'm Artem
 - 👋 I'm an 19yo developer from Omsk
 - 🌱 Currently studying on Bachelor's programme in RTU MIREA in Moscow
-- 🕳️ Diving headfirst into the JavaScript frontend stack
+- 🕳️ Diving headfirst into the JavaScript frontend stackНУ все 
 - 👀 Trying to be more productive
 
 ## Main stack
@@ -11,6 +11,12 @@
 	<img width="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" title="JavaScript" />
 	<a href="https://www.typescriptlang.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" title="TypeScript" />
+	</a>
+	<a href="https://create.t3.gg/">
+		<picture>
+    			<source srcset="https://create.t3.gg/images/t3-light.svg" media="(prefers-color-scheme: dark)">
+			<img width="50" src="https://create.t3.gg/images/t3-dark.svg" alt="Next.js T3 Stack" title="Next.js T3 Stack" />
+		</picture>
 	</a>
 	<a href="https://react.dev/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" title="React" />

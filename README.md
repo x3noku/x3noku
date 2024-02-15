@@ -13,19 +13,16 @@
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" title="TypeScript" />
 	</a>
 	<a href="https://react.dev/">
-		<img width="50" src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" title="React" />
+		<img width="50" src="https://cdn.simpleicons.org/react" alt="React" title="React" />
 	</a>
 	<a href="https://nextjs.org/">
-		<picture>
-    			<source srcset="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" media="(prefers-color-scheme: dark)">
-			<img width="50" src="https://static-00.iconduck.com/assets.00/next-js-icon-144x144-oytn4vne.png" alt="Next.js T3 Stack" title="Next.js T3 Stack" />
-		</picture>
+		<img width="50" src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js 14" title="Next.js 14" />
 	</a>
 <!-- 	<a href="https://reactrouter.com/">
 		<img width="50" height="50" src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" alt="React Router" title="React Router" />
 	</a> -->
 	<a href="https://redux-toolkit.js.org/">
-		<img width="50" src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="Redux + RTK" title="Redux + RTK" />
+		<img width="50" src="https://cdn.simpleicons.org/redux" alt="Redux + RTK" title="Redux + RTK" />
 	</a>
 	<a href="https://jotai.org/">
 		<img width="50" src="https://storage.googleapis.com/candycode/jotai/jotai-mascot.png" alt="Jotai" title="Jotai" />
@@ -34,7 +31,7 @@
 		<img width="50" src="https://cottonbureau.com/image?path=sellers%2Foriginals%2F101860_tanner-linsley_8BFQ.png" alt="TanStack" title="TanStack" />
 	</a>
 	<a href="https://tailwindcss.com/">
-		<img width="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+		<img width="50" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" />
 	</a>
 <!-- 	<a href="https://webpack.js.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/Webpack.svg" alt="Webpack" title="Webpack" />

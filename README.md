@@ -18,7 +18,7 @@
 	<a href="https://nextjs.org/">
 		<picture>
     			<source srcset="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" media="(prefers-color-scheme: dark)">
-			<img width="50" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="Next.js T3 Stack" title="Next.js T3 Stack" />
+			<img width="50" src="https://static-00.iconduck.com/assets.00/next-js-icon-144x144-oytn4vne.png" alt="Next.js T3 Stack" title="Next.js T3 Stack" />
 		</picture>
 	</a>
 <!-- 	<a href="https://reactrouter.com/">

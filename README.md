@@ -12,18 +12,18 @@
 	<a href="https://www.typescriptlang.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" title="TypeScript" />
 	</a>
-	<a href="https://create.t3.gg/">
-		<picture>
-    			<source srcset="https://create.t3.gg/images/t3-light.svg" media="(prefers-color-scheme: dark)">
-			<img width="50" src="https://create.t3.gg/images/t3-dark.svg" alt="Next.js T3 Stack" title="Next.js T3 Stack" />
-		</picture>
-	</a>
 	<a href="https://react.dev/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" title="React" />
 	</a>
-	<a href="https://reactrouter.com/">
-		<img width="50" height="50" src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" alt="React Router" title="React Router" />
+	<a href="https://nextjs.org/">
+		<picture>
+    			<source srcset="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" media="(prefers-color-scheme: dark)">
+			<img width="50" src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="Next.js T3 Stack" title="Next.js T3 Stack" />
+		</picture>
 	</a>
+<!-- 	<a href="https://reactrouter.com/">
+		<img width="50" height="50" src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" alt="React Router" title="React Router" />
+	</a> -->
 	<a href="https://redux-toolkit.js.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="Redux + RTK" title="Redux + RTK" />
 	</a>
@@ -36,16 +36,16 @@
 	<a href="https://tailwindcss.com/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS" title="Tailwind CSS" />
 	</a>
-	<a href="https://webpack.js.org/">
+<!-- 	<a href="https://webpack.js.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/Webpack.svg" alt="Webpack" title="Webpack" />
-	</a>
-	<a href="https://storybook.js.org/">
+	</a> -->
+<!-- 	<a href="https://storybook.js.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/Storybook.svg" alt="Storybook" title="Storybook" />
-	</a>
+	</a> -->
 <!-- 	<a href="https://eslint.org/">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/ESLint.svg" alt="ESLint" title="ESLint" />
-	</a>
-	<a href="https://prettier.io/">
+	</a> -->
+<!-- 	<a href="https://prettier.io/">
 		<img width="50" src="https://prettier.io/icon.png" alt="Prettier" title="Prettier" />
 	</a> -->
 </div>

@@ -21,9 +21,9 @@
 <!-- 	<a href="https://reactrouter.com/">
 		<img width="50" height="50" src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" alt="React Router" title="React Router" />
 	</a> -->
-	<a href="https://redux-toolkit.js.org/">
+<!-- 	<a href="https://redux-toolkit.js.org/">
 		<img width="50" src="https://cdn.simpleicons.org/redux" alt="Redux + RTK" title="Redux + RTK" />
-	</a>
+	</a> -->
 	<a href="https://jotai.org/">
 		<img width="50" src="https://storage.googleapis.com/candycode/jotai/jotai-mascot.png" alt="Jotai" title="Jotai" />
 	</a>

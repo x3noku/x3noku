@@ -9,28 +9,22 @@
 	<img width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" title="HTML5" />
 	<img width="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS" title="CSS" />
 	<img width="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" title="JavaScript" />
-	<a href="https://www.typescriptlang.org/">
+	<a href="https://www.typescriptlang.org/" style="text-decoration: none;">
 		<img width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" title="TypeScript" />
 	</a>
-	<a href="https://react.dev/">
+	<a href="https://react.dev/" style="text-decoration: none;">
 		<img width="50" src="https://cdn.simpleicons.org/react" alt="React" title="React" />
 	</a>
-	<a href="https://nextjs.org/">
+	<a href="https://nextjs.org/" style="text-decoration: none;">
 		<img width="50" src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js 14" title="Next.js 14" />
 	</a>
-<!-- 	<a href="https://reactrouter.com/">
-		<img width="50" height="50" src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" alt="React Router" title="React Router" />
-	</a> -->
-<!-- 	<a href="https://redux-toolkit.js.org/">
-		<img width="50" src="https://cdn.simpleicons.org/redux" alt="Redux + RTK" title="Redux + RTK" />
-	</a> -->
-	<a href="https://jotai.org/">
+	<a href="https://jotai.org/" style="text-decoration: none;">
 		<img width="50" src="https://storage.googleapis.com/candycode/jotai/jotai-mascot.png" alt="Jotai" title="Jotai" />
 	</a>
-	<a href="https://tanstack.com/">
+	<a href="https://tanstack.com/" style="text-decoration: none;">
 		<img width="50" src="https://cottonbureau.com/image?path=sellers%2Foriginals%2F101860_tanner-linsley_8BFQ.png" alt="TanStack" title="TanStack" />
 	</a>
-	<a href="https://tailwindcss.com/">
+	<a href="https://tailwindcss.com/" style="text-decoration: none;">
 		<img width="50" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" />
 	</a>
 <!-- 	<a href="https://webpack.js.org/">

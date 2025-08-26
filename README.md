@@ -1,5 +1,5 @@
 ## What's up, folks, I'm Artem
-- 👋 I'm an 20yo developer from Omsk
+- 👋 I'm an 21yo developer from Omsk
 - 🌱 Currently not studying on Bachelor's programme in RTU MIREA in Moscow
 - 🕳️ Diving headfirst into the JavaScript frontend stack
 - 👀 Trying to be more productive
